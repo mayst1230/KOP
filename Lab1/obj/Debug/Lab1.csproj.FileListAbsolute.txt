@@ -1,0 +1,9 @@
+C:\Users\mayst\source\repos\KOP\Lab1\bin\Debug\Lab1.dll
+C:\Users\mayst\source\repos\KOP\Lab1\bin\Debug\Lab1.pdb
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.dll
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.pdb
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.UserControlInputRegexEmail.resources
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.UserControlSelectedComboBox.resources
+C:\Users\mayst\source\repos\KOP\Lab1\obj\Debug\Lab1.UserControlOutputListBox.resources

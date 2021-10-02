@@ -1,0 +1,6 @@
+C:\Users\mayst\source\repos\KOP\Laba2\obj\Debug\Laba2.csproj.AssemblyReference.cache
+C:\Users\mayst\source\repos\KOP\Laba2\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\mayst\source\repos\KOP\Laba2\bin\Debug\Laba2.dll
+C:\Users\mayst\source\repos\KOP\Laba2\bin\Debug\Laba2.pdb
+C:\Users\mayst\source\repos\KOP\Laba2\obj\Debug\Laba2.dll
+C:\Users\mayst\source\repos\KOP\Laba2\obj\Debug\Laba2.pdb

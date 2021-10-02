@@ -1,0 +1,13 @@
+C:\Users\mayst\source\repos\KOP\Laba2View\bin\Debug\Laba2View.exe.config
+C:\Users\mayst\source\repos\KOP\Laba2View\bin\Debug\Laba2View.exe
+C:\Users\mayst\source\repos\KOP\Laba2View\bin\Debug\Laba2View.pdb
+C:\Users\mayst\source\repos\KOP\Laba2View\bin\Debug\Laba2.dll
+C:\Users\mayst\source\repos\KOP\Laba2View\bin\Debug\Laba2.pdb
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.csproj.AssemblyReference.cache
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.FormMain.resources
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.Properties.Resources.resources
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.csproj.GenerateResource.cache
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.csproj.CoreCompileInputs.cache
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.csproj.CopyComplete
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.exe
+C:\Users\mayst\source\repos\KOP\Laba2View\obj\Debug\Laba2View.pdb

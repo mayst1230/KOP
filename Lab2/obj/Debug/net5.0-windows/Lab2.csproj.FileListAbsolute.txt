@@ -1,0 +1,12 @@
+C:\Users\mayst\source\repos\KOP\Lab2\bin\Debug\net5.0-windows\Lab2.deps.json
+C:\Users\mayst\source\repos\KOP\Lab2\bin\Debug\net5.0-windows\Lab2.dll
+C:\Users\mayst\source\repos\KOP\Lab2\bin\Debug\net5.0-windows\ref\Lab2.dll
+C:\Users\mayst\source\repos\KOP\Lab2\bin\Debug\net5.0-windows\Lab2.pdb
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.csproj.AssemblyReference.cache
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.AssemblyInfoInputs.cache
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.AssemblyInfo.cs
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.dll
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\ref\Lab2.dll
+C:\Users\mayst\source\repos\KOP\Lab2\obj\Debug\net5.0-windows\Lab2.pdb
